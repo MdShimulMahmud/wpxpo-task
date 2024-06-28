@@ -21,4 +21,4 @@ npm start
 - Your application running at [http://localhost:3000](http://localhost:3000/)
 
 ### 2. The code's output will be like this 
-![](images\spinner_wheel.png)
+![](https://github.com/MdShimulMahmud/wpxpo-task/blob/master/images/spinner_wheel.png)
